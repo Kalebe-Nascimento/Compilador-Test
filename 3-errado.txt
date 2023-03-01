@@ -1,0 +1,9 @@
+char  time;
+
+printf("digite o nome do seu time de futebol");
+scanf("%c",&time);
+
+	if(time == "fluminense"){
+		printf("Parabens! Melhor time possivel");
+	}
+}

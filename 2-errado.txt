@@ -1,0 +1,15 @@
+float altura;
+int i;
+i = 0;
+
+pritf("digite seu tamannho em Metros Ex 1.78");
+scanf("%f",&altura);
+
+while (i<1){	
+	if(altura < 1.75){
+		printf("voce esta abaixo da media de altura BR");
+	}
+	if(altura >= 1.75){
+		printf("voce esta acima da media de altura BR");
+	}
+}	

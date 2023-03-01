@@ -1,0 +1,12 @@
+int idade;
+real massa;
+
+idade = 18;
+
+massa = 60.5;
+
+printf("Sua massa e: ");
+printf(massa);
+
+printf("Sua idade e: ");
+printf(idade);

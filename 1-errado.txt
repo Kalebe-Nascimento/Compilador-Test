@@ -1,0 +1,12 @@
+int i;
+i = 0;
+
+while(i<500){
+	printf("ola mundo")
+	
+	if(i<1){
+		printf("nao vai rodar nem 1 vezes");
+	}
+	i++;
+	
+}
